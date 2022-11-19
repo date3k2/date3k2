@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @date3k2
+- 👋 Hi, I’m Dat Nguyen
 - 👀 I’m interested in Software Engineering, Backend Development, Machine Learning
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 How to reach me : fb.com/date3k2 || nguyenduydat047@gmail.com
