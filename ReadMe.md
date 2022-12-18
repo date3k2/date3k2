@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dat Nguyen
-- 👀 I’m interested in Software Engineering, Fullstack Development, Machine Learning
+- 👀 I’m interested in Software Engineering, Fullstack Engineering, Machine Learning
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
 - 📫 How to reach me : fb.com/date3k2 || nguyenduydat047@gmail.com
 
