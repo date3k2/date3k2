@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Dat Nguyen.
+## Hi there! 👋 I'm Dat Nguyen.
 
-## 👀 About me
+### 👀 About me
 
 - I'm a Computer Science student at Hanoi University of Science and Technology.
-- I'm quite passionate about AI Development, Data Science, and Software Engineering.
+- I'm quite passionate about MLOps, Data Science, and Software Engineering.
 
-## 📫 Contact me
+### 📫 Contact
 
 Feel free to reach out to me on any of these platforms:
 
