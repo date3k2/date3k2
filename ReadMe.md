@@ -28,9 +28,13 @@ Feel free to reach out to me on any of these platforms:
     <a href="https://twitter.com/date3k2" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
- 
 </div>
 
+### Anita Max Wynn 🤗🥰🤭
+<div align="center">
+  <img src ="https://media.giphy.com/media/jSFfhtpHTpCkFrfYPN/giphy.gif?cid=790b7611qpl0n2jku1ca04tv5a6ezk51qr3ifxuxck6a1lfe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img src ="https://media.giphy.com/media/X5O5t5GBBd640XteOK/giphy.gif?cid=790b7611qpl0n2jku1ca04tv5a6ezk51qr3ifxuxck6a1lfe&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+</div>
 <!---
 date3k2/date3k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
