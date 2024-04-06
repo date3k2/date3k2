@@ -31,10 +31,11 @@ Feel free to reach out to me on any of these platforms:
 </div>
 
 ### Anita Max Wynn 🤗🥰🤭
+<!---
 <div align="center">
   <img src ="https://media.giphy.com/media/jSFfhtpHTpCkFrfYPN/giphy.gif?cid=790b7611qpl0n2jku1ca04tv5a6ezk51qr3ifxuxck6a1lfe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="375">
   <img src ="https://media.giphy.com/media/X5O5t5GBBd640XteOK/giphy.gif?cid=790b7611qpl0n2jku1ca04tv5a6ezk51qr3ifxuxck6a1lfe&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="375" height="375">
-</div>
+</div> --->
 <!---
 date3k2/date3k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
