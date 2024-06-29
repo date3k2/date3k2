@@ -3,7 +3,7 @@
 ### 👀 About me
 
 - I'm a Computer Science student at Hanoi University of Science and Technology.
-- I'm quite passionate about MLOps, NLP, Data Science, and Software Engineering.
+- I'm quite passionate about MLOps, NLP, Quantitative Reasearch, and Data Science.
 
 ### 📫 Contact
 
