@@ -31,8 +31,8 @@ Feel free to reach out to me on any of these platforms:
 
 ### Anita Max Wynn 🤗🥰🤭
 <div align = "center">
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rzmavhgz82bxe86nikzhne5jl&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rzmavhgz82bxe86nikzhne5jl&redirect=true)
+
+![date3k2](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2dkuqfingkkukgurvaf4mkkly&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=58bec6&bar_color_cover=false)
 </div>
 
 <!---
