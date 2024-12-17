@@ -32,7 +32,7 @@ Feel free to reach out to me on any of these platforms:
 ### Anita Max Wynn 🤗🥰🤭
 <div align = "center">
 
-![date3k2](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2dkuqfingkkukgurvaf4mkkly&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=58bec6&bar_color_cover=false)
+![date3k2](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2dkuqfingkkukgurvaf4mkkly&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=58bec6&bar_color_cover=false)
 </div>
 
 <!---
