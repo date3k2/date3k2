@@ -35,14 +35,6 @@ Feel free to reach out to me on any of these platforms:
 ![date3k2](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2dkuqfingkkukgurvaf4mkkly&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=58bec6&bar_color_cover=false)
 </div>
 
-### WorldQuant BRAIN
-
-<div align="center">
-  <a href="https://www.credly.com/badges/b8014ab7-cb17-492e-9eb0-a5275889b8b6">
-    <img src="https://github.com/user-attachments/assets/9ede5172-6cf3-49de-9504-cc7e3e795a84" alt="Certified Data Analyst" width="140" height="140">
-  </a>
-</div>
-
 
 
 <!---
